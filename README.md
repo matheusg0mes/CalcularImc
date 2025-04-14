@@ -1,2 +1,31 @@
-# CalcularImc
-Um dos meus exercícios para aprendizado do JavaScript, criei um site que calcular o seu IMC e mostrar  o resultado.
+# 🧮 Calculadora de IMC
+
+Esse é um projeto simples e funcional para calcular o **Índice de Massa Corporal (IMC)** utilizando **HTML**, **CSS** e **JavaScript**.  
+Criei como parte dos meus estudos em JS, com foco em manipulação do DOM, validações e responsividade.
+
+![Preview do projeto](https://user-images.githubusercontent.com/seu-usuario/imagem-exemplo.png)
+
+---
+
+## 🚀 Tecnologias utilizadas
+
+- HTML5
+- CSS3 (com variáveis e responsividade)
+- JavaScript (manipulação de DOM e lógica de cálculo)
+
+---
+
+## 🧠 Funcionalidades
+
+- ✅ Cálculo automático do IMC ao enviar o formulário
+- ✅ Validação de dados inseridos
+- ✅ Exibição de mensagens com estilo customizado (erro/sucesso)
+- ✅ Classificação com base nos níveis de IMC
+
+---
+
+## 💡 Como utilizar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/seu-usuario/CalculadoraIMC.git
