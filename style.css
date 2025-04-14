@@ -1,0 +1,72 @@
+:root{
+    --primari-color:rgb(22, 238, 227);
+}
+*{
+box-sizing: border-box;
+outline: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: var(--primari-color);
+}
+.container{
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+form label, form input, form button{
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+form input{
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 50px;
+}
+form input:focus{
+    outline: 3px solid var(--primari-color);
+}
+form button{
+    height: 40px;
+    font-size: 20px;
+    background-color: var(--primari-color);
+    color: white;
+    border: none;
+    cursor:pointer;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+form button:hover{
+    background-color: aqua;
+    color: rgb(13, 10, 230);
+}
+.paragranfo{
+    display: flex;
+    justify-content:space-evenly;
+   margin-right: 100px;
+   margin-left: -100px;
+}
+h1{
+    font-size: 27px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragrafo,.bad{
+    height: 20px;
+    width: 100%;
+    padding: 30px;
+    background-color:antiquewhite;
+}
+.bad{
+    background-color: rgb(233, 46, 46);
+}
+.paragrafo{
+    background-color:aquamarine;
+}
