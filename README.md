@@ -3,7 +3,6 @@
 Esse é um projeto simples e funcional para calcular o **Índice de Massa Corporal (IMC)** utilizando **HTML**, **CSS** e **JavaScript**.  
 Criei como parte dos meus estudos em JS, com foco em manipulação do DOM, validações e responsividade.
 
-![Preview do projeto](https://user-images.githubusercontent.com/seu-usuario/imagem-exemplo.png)
 
 ---
 
@@ -28,4 +27,4 @@ Criei como parte dos meus estudos em JS, com foco em manipulação do DOM, valid
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/CalculadoraIMC.git
+git clone https://github.com/matheusg0mes/CalculadoraIMC.git
